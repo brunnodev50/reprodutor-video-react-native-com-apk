@@ -1,0 +1,8 @@
+Importante: Para fazer funcionar, eu utilizo os seguintes comandos no terminal:
+
+npm install
+npx expo start
+
+Para Gerar um Novo APK (Instalador):
+
+eas build -p android --profile preview
